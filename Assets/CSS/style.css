@@ -1,0 +1,66 @@
+.text-center{
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	color: #ffffff;
+
+}
+
+#results{
+	padding: 20px;
+	align-content: center;
+	text-align: center;
+ }
+/*area around the questions*/
+
+.containerquestions{
+	align-content: center;
+ 	background-color: #cddc39;
+ 	padding: none;
+ }
+
+.Tally{
+
+	display: none;
+	text-align: center;
+		font-size: 75px;
+		 	background-color: #cddc39;
+
+
+
+}
+
+li{
+	list-style-type: none;
+	
+}
+
+#quiz{
+	text-align: center;
+	font-size: 25px;
+
+
+}
+h1{
+	color: pink;
+
+}
+
+.jumbotron {
+	background-image: url("birthday-cake-burning-candles-animated-card-gif.gif");
+	width: 600px;
+	height: 300px;
+	align-content: center;
+	color: teal;
+ }
+/*area around the jumbotron*/
+ .row {
+ 	background-image: url("balloonbanner.gif");
+ 	padding: none;
+ }
+ html{
+ 	 	background-color: #cddc39;
+ 	 	
+
+
+ }
